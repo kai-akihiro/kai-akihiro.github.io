@@ -4,5 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 経歴
+1995年生まれ
+2018年北里大学卒業､Texas Instruments入社
+
+#skill
+python
+machine learning
+java script
+SQL
+

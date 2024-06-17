@@ -28,8 +28,8 @@ url: "https://travs.jp/"
 github:
   username: kai-akihiro # change to your github username
 
-# twitter:
-#   username: twitter_username # change to your twitter username
+instagram:
+  username: a8nkn # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: k.a.jaguar@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://www.instagram.com/a8nkn/ # change to your twitter homepage
     - https://github.com/kai-akihiro # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
