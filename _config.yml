@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: Akihiro # the main title
 
-tagline: my portfolio # it will display as the sub-title
+tagline: 制作物など # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   my portfolio
